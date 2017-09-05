@@ -1,6 +1,7 @@
 > 个人收藏的Android常用工具类，每次做项目，一些常用的工具类总要重写一篇，烦死了，终于还是建了库，收藏这些常用的。
-### 其他地址:https://github.com/AbrahamCaiJin/CommonUtilLibrary
-###         https://github.com/GcsSloop/SUtil
+### 其他地址:
+* https://github.com/AbrahamCaiJin/CommonUtilLibrary
+* https://github.com/GcsSloop/SUtil
 
 #Gradle依赖
 ```java
