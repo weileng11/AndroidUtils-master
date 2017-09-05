@@ -2,6 +2,7 @@
 ### 其他地址:
 * https://github.com/AbrahamCaiJin/CommonUtilLibrary
 * https://github.com/GcsSloop/SUtil
+* https://github.com/l123456789jy/Lazy
 
 #Gradle依赖
 ```java
